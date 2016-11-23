@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="es">
+<html>
+<head>
+<title>Manual Html para Ceporros 2 </title>
+</head>
+
+<body>
+
+<p><b>1.Modelos de Contenidos</b></p>
+<p> Los diferentes modelos de contenidos son
+    <ol>
+      <li>Flow</li>
+      <li>heading</li>
+      <li>Metadata</li>
+      <li>sectioning</li>
+      <li>phraring</li>
+      <li>embedded</li>
+      <li>interactive</li>
+   </ol>
+</p>
+
+<p>Otros modelos de modelos de contenidos</p>
+<p> Los otros modelos de contenido son: </p>
+   <ol>
+      <li>tangible( palpable; flow or pharasings) </li>
+      <li>soporte scrips( script-supporting)</li>
+      <li> scrip y teplate</li>
+      <li>transparente </li>
+      <li>parrafo</li>
+      </ol>
+</p>
+
+<p><b>2.bloque</b></p>
+<p>comienza en linea nueva, ocupan todo el ancho posible,
+  pueden contener otros elementos de bloque o en linea.</p>
+
+<p><b>3.linea</b></p>
+<p>comienzan en la misma linea, solo ocupan el espacio necesario
+ solo pueden contener otros elementos en linea.</p>
+
+<p><b>4.Elementos sin significativo/b></p>
+<p> Los elementos sin significado son: 
+  <ol>
+      <li>div </li>
+      <li>span</li>
+  </ol>
+</p>
+
+<p>Di</p>
+<p> Viene de dividir. Crea un elemento de bloque sin significado y luego termina con el salto de linea
+ <span> elemento de linea sin mas. No tiene ni atributos ni nada.</p>
+
+<p>Span</p>
+<p> elemento de linea sin mas. No tiene ni atributos ni nada.</p> 
+</body>
