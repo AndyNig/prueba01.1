@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="es">
+<html>
+<head>
+<title>Manual Html para Ceporros 3 </title>
+</head>
+
+<body>
+<p> Otras cosas aparte del html</p>
+<p><b>1.Editores</b></p>
+<p> Hay dos tipos de editores:
+   <ol>
+    <li>Atom </li>
+    <li>Sublime Text</li>
+    <li> Brackets</li>
+    <li>blueGriffon</li>
+    <li>W3Schools</li>
+    <li>Tinymce </li>
+    <li>Shtml5 templates</li>
+  </ol>
+</p>
+
+<p>Atom</p>
+<p>editor esta pensado para web y tiene un navegador, visionador.Tambien es portable no hace falta instalarlo(")
+      se puede abrir una ventana que ves lo que escrites.</p>
+
+<p>Sublime Text</p>
+<p>editor que le gusta a todos, le puedes añadir funciones. 
+              tiene mucho plunings, les gusta a todos que usan java script.
+              esta de moda ahora mismo. </p>
+<p>blueGriffon</p>
+<p> entorno del firefox, se puede ir escribiendo para las paginasweb y los diseñadores graficos.
+               tiene parte dominio publico, y otra de pago.</p>
+<p>W3Schools</p>
+<p>para aprender</p>
+
+<p>Tinymce</p>
+<p>haces una cuenta y ya puedes crear paginas webs.</p>
+
+<p>Shtml5 templates</p>
+<p> es online y es para aprender.</p>
+
+<p><b>2.Servidores sencillos</b></p>
+<p> Hay cuatro tipos de servidores sencillos:
+   <ol>
+    <li>Python</li>
+    <li>php</li>
+    <li> Node.js</li>
+    <li>Browsersync</li>
+  </ol>
+</p>
+ 
+<p>Python</p>
+<p>lenguaje de programacion, se puede hacer java, pero sobretodo web. 
+          para los cientificos.</p>
+<p>Dos tipos de Python</p>
+<p>python -m SimpleHTTPserver (port)</p>
+<p>python -m http.server (port)</p>
+
+<p>php</p>
+<p>Es un servidor también </p>
+<pHay dos tipos de php</p>
+<p>php </p>
+<p>Slocalhost</p>
+
+<p>Node.js</p>
+<p>Es para javascrip, es un interprete para trabajar en java scrip </p>
+
+<p>Browsersync</p>
+<p>el solo se actualiza y no teneis nada mas que hacer. Esto es para javascrip. </p>
+<ol>
+    <li>Git</li>
+    <li>Descarga</li>
+</ol>
+</p>
+
+<p><b>3.Github</b></p>
+<p>El github es una forja, es un sitio en internet que almacena código y todos van a trabajar .</p>
+<p>Git</p>
+<p>El sistema de control de versiones.
+<p> Es un entorno de trabajo que nos permite tener en algu sitio
+   que se llama repositorio. Nos permite guardar cosas de programación ect.</p>
+<p> En el repositorio hay un directorio, tiene un historico y me permite tener lo que quiera. 
+      push para guardad, pull para devolver</p>
+<p>Descarga</p>
+<p>Uno donde se puede descargar el github es Windows</p>
+</body>
