@@ -1,0 +1,349 @@
+
+ 
+ <!doctype html>
+ <html lang="es">
+   <head>
+     <title>Manual para ceporros</title>
+     <meta chartset="utf-8">
+   </head>
+   
+<body>
+<p><b><u>Manual Html para ceporros</u></b></p>
+
+<p><b>1.Iniciar Proyecto</b></p>
+
+<p> Acceder al bloc de notas</p>
+<p> Nota: Para acceder al bloc de notas, tienes que poner la mano en el ratón y hacer click con un dedo al botón derecho
+del ratón. Una vez que le hayas dado, te apareceda un menú, pon encima suavemente en nuevo y después en documento
+de texto. Y ahí tendra el bloc de notas. </p>
+
+<p><b>2.Doctype</b></p>
+
+<p> Lo primero que hay que poner siempre es entre "<>" la frase <b>!doctype html</b> </p>
+<p> Es importante no olvidarse de poner esa frase, después hay que poner la etiqueta "lang"(Es una etiqueta para poner el lenguaje) </p>
+<p> La etiqueta se pone en <b> "<>" </b> y dentro pondremos "html lang="es"</p>
+
+<p><b>3.Html lang</b></p>
+
+<p>Una vez que hayas puesto todo del paso dos</p>
+<p> Debajo de la etiqueta html lang, hay que poner html.</p>
+<p> No olvides de ponerlos dentro de los "<>"</p>
+
+<p><b>4.Head</b></p>
+
+<p>Ahora pondremos la etiqueta <b>Head</b></p>
+<p>La etiqueta Head significa cabeza, dentro de la cabecera pondremos<b>el titulo</b> y <b> meta charset</b></p>
+<p> El metacharset es el tipo de codificación que usamos en este blog de notas, en este caso<b>Utf-8</b></p>
+<p>Como hemos dicho antes, las etiquetas del head se abren "<head>" y se cierran "</head>"</p>
+<p> Nota: si no cierras las etiquetas, no funcionara</p>
+
+<p><b>5.Metacharset</b></p>
+
+<p>Como hemos mencionado antes, el metacharset se pone dentro del <b>head</b> y debajo del <b>title</b></p>
+<p> La etiqueta se escribe asi <b><meta chartset="utf-8"></b></p>
+
+<p><b>6.Body</b></p>
+
+<p>Después del head, ahora paseremos al<b>body</b></p>
+<p>Body en español significa cuerpo, dentro del body se pondran todos los elementos de nuestro documento</p>
+<p> El body, como hemos dicho las anteriores veces se abre "<body>" y se cierra"</body>"</p>
+
+<p><b>7.Heading</b>/p>
+
+<p>Heading en español significa titulo</p>
+<p>Los heading sirven para poner los titulos de los documentos o de los trozos</p>
+<p> La etiqueta se abre asi "h" y se cierra asi"/h"</p>
+<p> Pero eso no es todo, si queremos poner mas headings hay que poner después de la etiqueta <b>"h1,/h1"</b> y asi
+hasta seis</p>
+<p> Un ejemplo es;
+   <h>
+   <h1> hola esto es</h1>
+   <h2> puede que esto sea</h2>
+   <h3> una chorrada de ejemplo</h3>
+   </h>
+</p>
+
+
+<p><b>8.Ordenerd list </b>/p>
+
+<p>ordenerd list en español significa listas ordenadas</p>
+<p>Los ordenerd list como hemos dicho anteriormente, sirven para hacer 
+listas ordenadas</p>
+<p>Las etiquetas que debes usar son para empezar "ol", para los elementos de 
+la lista "li" y para cerrar la lista "/ol"</p>
+
+<p><b>9.Definiton list</b></p>
+
+<p>definiton list en español significa listas definidas</p>
+<p>Su etiqueta es la "dl" para empezar, para los definition term (terminos definidos)
+se usa la etiqueta "dt" y para los definition data(datos definidos) se usa la etiqueta "dd"</p>
+
+
+<p><b>10.Unordered List</b></p>
+<p>Unordered List en español significa listas desordenadas</p>
+<p>Los Unordered List como se ha dicho antes en otro punto, sirven para hacer 
+listas desordenadas</p>
+<p>Las etiquetas son para empezar la lista "ul", para los elementos igual que
+en el punto ocho "li" y para cerrar la lista "/ul"</p>
+
+<p><b>11.Argument</b></p>
+<p>Argument en español significa argumento</p>
+<p>Dentro del argumento hay cuatro tipos de cosas dentro</p>
+<p> La primera cosa es el "Reverse", un tipo de atributo que no tiene valores y pone la lista empezando por el ultimo,
+            además pone la lista al reves.</p>
+<p> La segunda cosa es el "start="numero", una etiqueta que sirve para decir con que número quieres que empiece </p>
+<p>La tercera cosa es el "type" significa tipo en español, para decir que tipo de letra quieres</p>
+<p>La cuarta cosa es el "li", como hemos dicho anteriorente en el punto "8." sirven para los elementos de lista.
+pero ahora en el argumento con un "value", significa en español valorar</p>
+
+<p><b>12.Horizontal rule</b></p>
+<p>Horizontal rule en español significa Línea horizontal</p>
+<p>La linea horizontal divide un parrafo de otro</p>
+<p> La etiqueta es HR y como hemos dicho anteriormente con "<>"</p>
+<p> Además se pone entremedio de los parrafos normalmente</p>
+
+<p><b>13.El resaltado</b></p>
+<p>Hay tres tipos de resaltado:
+   <ol> 
+     <li>La Italic</li>
+     <li>La Bold</li>
+     <li>La underline</li>
+   </ol>
+</p>
+<p> La Italic en español significa la "Bastardilla" (para representar palabras extranjeras)</p>
+<p> Su etiqueta es la "i" y pone la palabra en cursiva</p>
+
+<p> La Bold en español significa "Negrita"</p>
+<p> Su etiqueta es la "b" y pone la palabra en negrita</p>
+
+<p> La Underline en español significa "Subrayada</p>
+<p> Su etiqueta es la "u" y pone la palabra subrayada</p>
+
+<p>Stress Emphasis</p>
+<p>Sirve para recalcar una parte del texto, le da mas intesidad</p>
+<p> Su etiqueta es la "EM"</p>
+
+<p>Strong</p>
+<p> Sirve para algo importante, serio o urgente y hace lo mismo que la b, pero son dos cosas distintas</p>
+<p>Su etiqueta es "STRONG"</p>
+
+<p> Small</p>
+<p> Sirve para  representar la letra pequeña </p>
+<p> Su etiqueta es "SMALL"</p>
+
+<p><b>14.Salto de línea</b></p>
+<p> Hay dos tipos de saltos de linea
+  <ol>
+    <li> Break </li>
+    <li> WORD BREAK </li>
+  </ol>
+</p>
+<p> Tanto el break y el word break (oportunidad de salto de linea, si ponemos esta etiqueta delante de una palabra
+    la pondra en otra linea y a veces los ordenadores hacen lo que quieren)</p>
+<p> Sus etiquetas son break "BR", word break "WBR" </p>
+
+<p><b>15.Uniform Resource Locator</b></p>
+<p> Hay varios elementos que son: </p>
+ <ol>
+    <li>Esquema: http,ftp,mailto,ect.</li>
+    <li>usuario: nombre del usuario en el servidor</li>
+    <li>contraseña : si se requiere</li>
+    <li> servidor: nombre de la maquina</li>
+    <li> puerto: de servicio </li>
+    <li> localizador: en el servidor (numero del ordenador)</li>
+ </ol>
+ <p> esquema ://usuario:contraseña@servidor:puerto/localizador ( puerto/localizador podria no ponerse o pedirmelo)</p>
+
+<p><b>16.Hiperenlaces</b></p>
+<p> hay varios tipos de hiperenlaces
+  <ol> 
+    <li> Anchor </li>
+    <li> Href </li>
+    <li> absoluto</li>
+    <li> relativo </li>
+    <li>subdirectorio </li>
+  </ol>
+</p>
+
+<p> El Anchor </p>
+<p> Sirve para pillar un atributo que se llama href, sino existe no pasa nada. Se puede marcar o n, el valor del href es la url
+   que quieres ir </p>
+<p> Su etiqueta es "a"</p>
+
+<p>El Href</p>
+<p>Sirve para marcar un lugar en el que podia haber un enlace si fuera relevante </p>
+<p> se escribe : los <> + a href= </p>
+
+<p>Lo absoluto</p>
+<p> se escribe "http://sitio/pagina.html"</p>
+
+<p>El relativo</p>
+<p> Sirve para el mismo directorio </p>
+<p> Se escribe  pagina.html</p>
+    <p>El Subdirectorio</p>
+    <p>Se escribe subdirectorio/pagina.html</p>
+    <p> Directorio anterior</p>
+    <p>Se escribe ../pagina.html</p>
+
+<p><b>17.El Hiperenlace interno</b></p>
+<p>Hay tres tipos:
+  <ol>
+    <li> Identificador de elemento</li>
+    <li> Referencia a elemento</li>
+    <li> Principio del documento</li>
+  </ol>
+</p>
+
+<p>El identicador de elemento</p>
+<p> se escribe con <> + elto id=eltoX + Elemento X + el cierre con elto</p>
+
+<p>La referencia a elemento</p>
+<p>se escribe con <> + a href=eltoX + Elemento X + el cierre con elto</p>
+
+<p> El principio del documento</p>
+<p> se escribe #top</p>
+
+<p><b>18.Hiperenlace HTML 4</b></p>
+<p>El name es una etiqueta que pone una referencia desde otro sitio</p>
+<p>Pero en el html5 hay que usar el #top, actualmente no se usa</p>
+<p> se escribe <> + a name= + nombre del lugar y las comillas</p>
+
+<p> Referencia desde otro documento</p>
+<p> se escribe <> + a href= + URL#identificador + comillas +
+nombre del lugar (lugar del documento que esta en otro directorio)</p>
+
+<p>Los atributos</p>
+<p>Solo si usamos href</p>
+<p> hay tres tipos:
+  <ol>
+    <li>download</li>
+    <li>Target</li>
+    <li>Otros</li>
+ </ol>
+</p>
+
+<p>Download</p>
+<p> Se pone igual y se pone el nombre del destino</p>
+<p>El  valor opcional: nombre del destino</p>
+
+<p>Target</p>
+<p>Se usa el "_blank" y abre una ventana nueva y ahi usa el enlace del href</p>
+
+<p><b>19.Imagenes</b></p>
+<p>Para poner una imagen hay que poner estos elementos
+   <ol>
+     <li>etiqueta:img +<></li>
+     <li>origen (SouRCe): src</li>
+     <li> Entre ellos se pone "img src=" + nombre foto + jpg + <></li>
+     <li>texto alternativo : alt</li>
+     <li>ancho :width</li>
+     <li>alto: height</li>
+   </ol>
+</p>
+
+<p> Los tipos de imagenes son:
+    <ol>
+      <li> bimap estáticos (con y sin perdida)</li>
+      <li>PNG (comprimidos y se pueden recuperar), GIF, JPG</li>
+    </ol> 
+     
+     <ol>
+        <li>Documentos vectoriales</li>
+        <li>SVG (funciones matematicas,no tiene perdida como los otros)</li>
+     </ol> 
+
+       <ol>
+        <li>Animados</li>
+        <li>APNG( extension del PNG, mostrara la primera imagen aunque no pueda hacer la animación,GIF ( en el fichero se ha metido mas imagenes que crea una animacion)</li>
+     </ol> 
+ 
+       <ol>
+        <li>Otros </li>
+        <li>PDF (lo soporta en html)</li>
+        <li>MNG( extesion del PNG para crear animaciones)</li>
+       </ol> 
+
+</p>
+
+
+
+<p><b>20.Mapas de imagen</b></p>
+<p>Sirve para coger una imagen,dividirlo en secciones y se crean enlaces dentro de las secciones y al pincharlo te lleva al contenido del enlace</p>
+<p>Se pone "map name=" + mapa + <></p>
+<p>Independientemente se usa para las imagenes "img usemap=" +#mapa + <></p>
+
+<p>Area es un elemento vacio</p>
+<p>Los tipos son: 
+   <ol>
+     <li> shape : default, rect( x- izq, y-sup, x-dcha, y-inf)
+               circle (x-centro, y-centro, radio)
+               poly ( x1,y1,x2,y2.....,xN,yN) </li>
+    
+     <li>coords: coordenadas separadas por comas </li>
+     <li>href: URL asociada al NOHREF</li>
+     <li>alt : texto alternativo</li>
+     <li>download</li>
+     <li>target</li>
+   </ol>
+
+
+<p><b>21.estructura de map area</b></p>
+<p>Se pone primero "map name</p>
+<p>Se pone después "area shape= circle coords= "x,y,r" href=........."</p>
+<p>Luego se cierra map</p>
+
+<p><b>22.simbolos especiales</b></p>
+<p> Hay dos tipos de simbolos especiales
+  <ol> 
+   <li>formato</li>
+   <li>Espacio en blanco</li>
+</ol>
+</p>
+
+<p> El formato</p>
+<p>& nombre_del_simbolo;(& mas el nombre del simbolo y ;)</p>
+
+<p>El espacio en blanco</p>
+<p>Se escribe Non-Breaking Space:&nbsp (espacio sin romperlo, cuando quieras poner dos palabras sin romper y que esten en la linea
+    se pone &nsbp.Se pone para poner espacios en blanco y que no haga salto de linea)
+    Eñe: &ntilde; &Ntilde;
+    Acentos agudos: &aacute; &Aacute; &eacute; ... </p>
+
+<p><b>23.Tablas</b></p>
+<p>Se escribe primero "Table" para la tabla</p>
+<p>Luego se escribe"Table row" para las filas</p>
+<p>Después se escribe "td" para las columnas</p>
+<p>Y se escribe "th" para el encabezado</p> 
+<p> Otros elementos para poner en la tabla son:
+   <ol>
+      <li>thead para el encabezado de la tabla</li>
+      <li>tbody para el cuerpo de la tabla</li>
+      <li>tfoot para el sumario de la tabla</li>
+      <li>caption para la leyenda</li>
+
+
+<p><b>24.Atributos Tablas</b></p>
+<p>Hay varios tipos de atributos :
+    <ol>
+      <li>border</li>
+      <li>rowspan</li>
+      <li>colspan</li>
+   </ol>
+</p>
+
+<p>border</p>
+<p>Significa Borde en español</p>
+<p>Se pone en table</p>
+
+<p>rowspan</p>
+<p>Significa expansión en columna en español</p>
+<p>se pone entre "td y th"</p>
+
+<p>colspan</p>
+<p>Significa expansión en fila en español</p>
+<p>se pone entre "td y th"</p>
+
+
+
+</body>
+</html>
